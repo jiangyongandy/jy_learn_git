@@ -22,3 +22,5 @@
 *.RTF	 diff=astextplain
 
 git learn 
+
+git learn diff
